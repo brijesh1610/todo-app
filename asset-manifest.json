@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/todo-app/static/css/main.756af292.css",
-    "main.js": "/todo-app/static/js/main.58e7f6b8.js",
-    "static/js/787.8b4e4060.chunk.js": "/todo-app/static/js/787.8b4e4060.chunk.js",
-    "static/media/logo.svg": "/todo-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/todo-app/index.html",
-    "main.756af292.css.map": "/todo-app/static/css/main.756af292.css.map",
-    "main.58e7f6b8.js.map": "/todo-app/static/js/main.58e7f6b8.js.map",
-    "787.8b4e4060.chunk.js.map": "/todo-app/static/js/787.8b4e4060.chunk.js.map"
+    "main.css": "/Flahcard-Generator/static/css/main.6b5a44fe.css",
+    "main.js": "/Flahcard-Generator/static/js/main.346553d6.js",
+    "static/js/787.8644fe8d.chunk.js": "/Flahcard-Generator/static/js/787.8644fe8d.chunk.js",
+    "static/media/brandlogo.png": "/Flahcard-Generator/static/media/brandlogo.5f0000154cb7c81540c2.png",
+    "static/media/whatsapp-icon.svg": "/Flahcard-Generator/static/media/whatsapp-icon.4b2d9a2b96bcc510de7e42c4c607c1b8.svg",
+    "static/media/mail-icon.svg": "/Flahcard-Generator/static/media/mail-icon.e16ef1279ed3d03f0d990cf5ca9d3f33.svg",
+    "static/media/twitter-icon.svg": "/Flahcard-Generator/static/media/twitter-icon.145d6d908a58b26f0d4c3d5a2d058c9f.svg",
+    "static/media/linkedin-icon.svg": "/Flahcard-Generator/static/media/linkedin-icon.7cee089830681b17c13981a1f0be79a7.svg",
+    "static/media/facebook-icon.svg": "/Flahcard-Generator/static/media/facebook-icon.27cdc27acd49f385f3b6ea70c5511fde.svg",
+    "index.html": "/Flahcard-Generator/index.html",
+    "main.6b5a44fe.css.map": "/Flahcard-Generator/static/css/main.6b5a44fe.css.map",
+    "main.346553d6.js.map": "/Flahcard-Generator/static/js/main.346553d6.js.map",
+    "787.8644fe8d.chunk.js.map": "/Flahcard-Generator/static/js/787.8644fe8d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.756af292.css",
-    "static/js/main.58e7f6b8.js"
+    "static/css/main.6b5a44fe.css",
+    "static/js/main.346553d6.js"
   ]
 }
